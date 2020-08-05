@@ -1,0 +1,18 @@
+[[assimp_win]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "25c93bd7654b1b0f5e1fbab667a30906c0812071"
+os = "windows"
+
+    [[assimp_win.download]]
+    sha256 = "8e9e4b736bea06518e7933550e9008317b80102ee50ae1a20e9a3de405baf43b"
+    url = "https://github.com/pxl-th/assimp_win_jll.jl/releases/download/assimp_win-v5.0.2+0/assimp_win.v5.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[assimp_win]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a77e4cccb4cf602e531d72c83715a471fabfec5b"
+os = "windows"
+
+    [[assimp_win.download]]
+    sha256 = "14da517c4e72487c20550d802540e37c023bba018e0c021ffc98d15126146972"
+    url = "https://github.com/pxl-th/assimp_win_jll.jl/releases/download/assimp_win-v5.0.2+0/assimp_win.v5.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
